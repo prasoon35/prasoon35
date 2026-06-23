@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://huggingface.co/prasoon35">
+  <a href="https://huggingface.co/Prasooon">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   </a>
   &nbsp;
