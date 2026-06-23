@@ -64,7 +64,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prasoon35/prasoon35/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
+  <!-- Swapped link to point directly to the dark-themed SVG version -->
+  <img src="https://raw.githubusercontent.com/prasoon35/prasoon35/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" />
 </p>
 
 ---
