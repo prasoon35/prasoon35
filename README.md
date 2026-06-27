@@ -35,29 +35,15 @@
 
 ## 🚀 Highlight Projects
 
-* **WasteRoute-Env**: Built a graph-based reinforcement learning city simulation for urban waste collection routing using OpenEnv, integrating Qwen2.5-72B as a baseline evaluation agent and deploying it live via Docker on Hugging Face Spaces[cite: 1, 2].
-* **Empirical Algorithmic Complexity Profiler**: Engineered an ML-driven runtime profiling sandbox using log-log OLS regression to forecast Big-O algorithmic complexities with $R^2 > 0.99$ while dynamically resolving microsecond hardware noise floors[cite: 1, 2].
+* **WasteRoute-Env**: Built a graph-based reinforcement learning city simulation for urban waste collection routing using OpenEnv, integrating Qwen2.5-72B as a baseline evaluation agent and deploying it live via Docker on Hugging Face Spaces.
+* **Empirical Algorithmic Complexity Profiler**: Engineered an ML-driven runtime profiling sandbox using log-log OLS regression to forecast Big-O algorithmic complexities with $R^2 > 0.99$ while dynamically resolving microsecond hardware noise floors.
 
 ---
 
 ## 🏆 Achievement
 
-> 🥈 **Grand Finalist** — Meta × PyTorch × Hugging Face **OpenEnv Hackathon**
-> Selected out of **52,000+ registered developers** as a **solo participant** &nbsp;|&nbsp; April 2026[cite: 1, 2]
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasoon35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoon35&layout=compact&theme=tokyonight&hide_border=true&hide=c,C" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prasoon35&theme=tokyonight&hide_border=true" />
-</p>
+> **Grand Finalist** — Meta × PyTorch × Hugging Face **OpenEnv Hackathon**
+> Selected out of **52,000+ registered developers** as a **solo participant** &nbsp;|&nbsp; April 2026
 
 ---
 
