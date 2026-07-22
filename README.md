@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Prasoon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=ML+Engineer+in+the+Making;Building+Real+Things+with+Code;RL+%7C+Systems+%7C+Backend;Undergrad+%40+MNIT+Jaipur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+Real+Things+with+Code;Exploring+Realms+of+AI+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
